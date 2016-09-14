@@ -1,4 +1,4 @@
-# Starter project for Angular with ES6 Webpack
+# Starter project for Angular 1.x with ES6 Webpack
 
 This is a starter kit to get you working with es6 classes and modules within Angular 1.x using Webpack.
 
