@@ -1,0 +1,7 @@
+body {
+  font: 16px 'Ubuntu','Baloo Paaji',sans-serif;
+}
+
+nav.navbar {
+    border-radius: 0;
+}
