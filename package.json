@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate-es6-angular-webpack",
+  "name": "angular-webpack-es6",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -8,7 +8,7 @@
     "start": "npm run server"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.7.5",
     "babel-eslint": "^6.0.2",
